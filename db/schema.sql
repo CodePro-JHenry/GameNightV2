@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS game_night;
+CREATE DATABASE game_night;
