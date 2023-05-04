@@ -2,18 +2,21 @@
   {
     "firstName": "Sal",
     "lastName": "Something",
+    "gamerHandle": "SmoothSaling",
     "email": "sal@hotmail.com",
     "password": "password12345"
   },
   {
     "firstName": "Lernantino",
     "lastName": "Lebac",
+    "gamerHandle": "LernLeb",
     "email": "lernantino@gmail.com",
     "password": "password12345"
   },
   {
     "firstName": "Amiko",
     "lastName": "Anywhere",
+    "gamerHandle": "AmkoEverywhere",
     "email": "amiko2k20@aol.com",
     "password": "password12345"
   }
